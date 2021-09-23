@@ -1,3 +1,4 @@
+console.log('linked list')
 class LinkedList {
   constructor() {
     this.root = null;
